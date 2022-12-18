@@ -1,0 +1,1054 @@
+.websiteBody {
+  margin: 0;
+}
+.Page {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+.Page-outer {
+  z-index: 1;
+}
+.Frame {
+  position: relative;
+  z-index: 2;
+
+  width: 100%;
+  margin-left: 0;
+  height: 1024px;
+  min-width: 200px;
+  max-width: 1440px;
+  margin: auto;
+  background-color: rgba(218, 218, 254, 1);
+  overflow: hidden;
+}
+.Frame-outer {
+  z-index: 2;
+}
+.image-6 {
+  position: relative;
+  z-index: 22;
+
+  margin-left: 127px;
+  width: 230px;
+  min-width: 195px;
+  height: 140px;
+  margin-top: 10px;
+  margin-bottom: 878px;
+  min-height: 136px;
+  content: url(assets/images/image_6.png);
+}
+.image-6-outer {
+  z-index: 10;
+  position: relative;
+  display: flex;
+}
+.Profile {
+  position: relative;
+  z-index: 32;
+
+  margin-left: 1308px;
+  width: 51px;
+  min-width: 51px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Profile-Outer {
+  z-index: 32;
+  position: relative;
+  display: flex;
+}
+
+.Profile-1 {
+  position: relative;
+  z-index: 9;
+
+  margin-left: 1308px;
+  width: 51px;
+  min-width: 51px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Profile-1-outer {
+  z-index: 9;
+  position: relative;
+  display: flex;
+}
+.search {
+  position: relative;
+  z-index: 19;
+
+  margin-left: 1271px;
+  width: 24px;
+  min-width: 24px;
+  height: 24px;
+  margin-top: -958px;
+  margin-bottom: 934px;
+  min-height: 24px;
+  overflow: hidden;
+}
+.search-outer {
+  z-index: 19;
+  position: relative;
+  display: flex;
+}
+.Vector {
+  position: relative;
+  z-index: 21;
+
+  margin-left: 0%;
+  width: 100%;
+  height: 100%;
+  margin-top: 0%;
+  content: url(assets/images/Vector.png);
+}
+.Vector-outer {
+  z-index: 21;
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.Vector-1 {
+  position: relative;
+  z-index: 20;
+
+  margin-left: 12.500000000000005%;
+  width: 72.87500000000003%;
+  height: 72.87499999999999%;
+  margin-top: 12.500000000000005%;
+  content: url(assets/images/Vector_1.png);
+}
+.Vector-1-outer {
+  z-index: 20;
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.Help {
+  position: relative;
+  z-index: 18;
+
+  margin-left: 1210px;
+  width: 61px;
+  min-width: 61px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Help-outer {
+  z-index: 18;
+  position: relative;
+  display: flex;
+}
+.Dataset {
+  position: relative;
+  z-index: 17;
+
+  margin-left: 1110px;
+  width: 68px;
+  min-width: 68px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Dataset-outer {
+  z-index: 17;
+  position: relative;
+  display: flex;
+}
+.Voice {
+  position: relative;
+  z-index: 16;
+
+  margin-left: 1020px;
+  width: 45px;
+  min-width: 45px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Voice-outer {
+  z-index: 16;
+  position: relative;
+  display: flex;
+}
+.Workshop {
+  position: relative;
+  z-index: 6;
+
+  margin-left: 900px;
+  width: 57px;
+  min-width: 57px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Workshop-outer {
+  z-index: 6;
+  position: relative;
+  display: flex;
+}
+
+.Customer {
+  position: relative;
+  z-index: 6;
+
+  margin-left: 780px;
+  width: 57px;
+  min-width: 57px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Customer-outer {
+  z-index: 6;
+  position: relative;
+  display: flex;
+}
+
+.Scan {
+  position: relative;
+  z-index: 6;
+
+  margin-left: 700px;
+  width: 57px;
+  min-width: 57px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Scan-outer {
+  z-index: 6;
+  position: relative;
+  display: flex;
+}
+
+.Report {
+  position: relative;
+  z-index: 14;
+
+  margin-left: 610px;
+  width: 44px;
+  min-width: 44px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(219, 170, 44, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Report-outer {
+  z-index: 14;
+  position: relative;
+  display: flex;
+}
+.search-1 {
+  position: relative;
+  z-index: 11;
+
+  margin-left: 1271px;
+  width: 24px;
+  min-width: 24px;
+  height: 24px;
+  margin-top: -958px;
+  margin-bottom: 934px;
+  min-height: 24px;
+  overflow: hidden;
+}
+.search-1-outer {
+  z-index: 11;
+  position: relative;
+  display: flex;
+}
+.Vector-2 {
+  position: relative;
+  z-index: 13;
+
+  margin-left: 0%;
+  width: 100%;
+  height: 100%;
+  margin-top: 0%;
+  content: url(assets/images/Vector_2.png);
+}
+.Vector-2-outer {
+  z-index: 13;
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.Vector-3 {
+  position: relative;
+  z-index: 12;
+
+  margin-left: 12.500000000000005%;
+  width: 72.87500000000003%;
+  height: 72.87499999999999%;
+  margin-top: 12.500000000000005%;
+  content: url(assets/images/Vector_3.png);
+}
+.Vector-3-outer {
+  z-index: 12;
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.Help-1 {
+  position: relative;
+  z-index: 9;
+
+  margin-left: 1210px;
+  width: 61px;
+  min-width: 61px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Help-1-outer {
+  z-index: 9;
+  position: relative;
+  display: flex;
+}
+.Dataset-1 {
+  position: relative;
+  z-index: 8;
+
+  margin-left: 1110px;
+  width: 68px;
+  min-width: 68px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Dataset-1-outer {
+  z-index: 8;
+  position: relative;
+  display: flex;
+}
+.Voice-1 {
+  position: relative;
+  z-index: 7;
+
+  margin-left: 1020px;
+  width: 45px;
+  min-width: 45px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Voice-1-outer {
+  z-index: 7;
+  position: relative;
+  display: flex;
+}
+.Workshop-1 {
+  position: relative;
+  z-index: 6;
+
+  margin-left: 900px;
+  width: 57px;
+  min-width: 57px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Workshop-1-outer {
+  z-index: 6;
+  position: relative;
+  display: flex;
+}
+
+.Customer-1 {
+  position: relative;
+  z-index: 6;
+
+  margin-left: 780px;
+  width: 57px;
+  min-width: 57px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Customer-1-outer {
+  z-index: 6;
+  position: relative;
+  display: flex;
+}
+
+.Scan-1 {
+  position: relative;
+  z-index: 6;
+
+  margin-left: 700px;
+  width: 57px;
+  min-width: 57px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Scan-1-outer {
+  z-index: 6;
+  position: relative;
+  display: flex;
+}
+.Report-1 {
+  position: relative;
+  z-index: 5;
+
+  margin-left: 610px;
+  width: 44px;
+  min-width: 44px;
+  margin-top: -958px;
+  margin-bottom: 939px;
+  min-height: 19px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(219, 170, 44, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 19px;
+}
+.Report-1-outer {
+  z-index: 5;
+  position: relative;
+  display: flex;
+}
+.Line-3 {
+  position: relative;
+  z-index: 10;
+
+  margin-left: 610px;
+  width: 44px;
+  min-width: 44px;
+  height: 2px;
+  margin-top: -911px;
+  margin-bottom: 909px;
+  min-height: 2px;
+  content: url(assets/images/Line_3.png);
+}
+.Line-3-outer {
+  z-index: 10;
+  position: relative;
+  display: flex;
+}
+.Rectangle-16 {
+  position: relative;
+  z-index: 3;
+
+  margin-left: 547px;
+  width: 388px;
+  min-width: 388px;
+  height: 549px;
+  margin-top: -780px;
+  margin-bottom: 211px;
+  min-height: 549px;  
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 65px;
+}
+.Rectangle-16-outer {
+  z-index: 3;
+  position: relative;
+  display: flex;
+}
+.Report-head {
+  position: relative;
+  z-index: 45;
+
+  margin-left: 690px;
+  width: 119px;
+  min-width: 119px;
+  margin-top: -650px;
+  margin-bottom: 609px;
+  min-height: 41px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 41px;
+}
+.Report-head-outer {
+  z-index: 45;
+  position: relative;
+  display: flex;
+}
+
+
+
+
+
+.Vehicle-Number-1 {
+  position: relative;
+  z-index: 12;
+
+  margin-left: 605px;
+  width: 102px;
+  min-width: 102px;
+  margin-top: -590px;
+  margin-bottom: 575px;
+  min-height: 15px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+}
+.Vehicle-Number-1-outer {
+  z-index: 12;
+  position: relative;
+  display: flex;
+}
+.Rectangle-13 {
+  position: relative;
+  z-index: 10;
+
+  margin-left: 605px;
+  width: 250px;
+  min-width: 250px;
+  height: 38px;
+  margin-top: -560px;
+  margin-bottom: 522px;
+  min-height: 38px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+.Rectangle-13-outer {
+  z-index: 10;
+  position: relative;
+  display: flex;
+}
+.Vehicle-Number {
+  position: relative;
+  z-index: 21;
+
+  margin-left: 613px;
+  width: 180px;
+  min-width: 102px;
+  margin-top: -548px;
+  margin-bottom: 533px;
+  min-height: 15px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(165, 150, 150, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+}
+.Vehicle-Number-outer {
+  z-index: 21;
+  position: relative;
+  display: flex;
+}
+.Rectangle-4 {
+  position: relative;
+  z-index: 4;
+
+  margin-left: 664px;
+  width: 153px;
+  min-width: 153px;
+  height: 40px;
+  margin-top: -495px;
+  margin-bottom: 450px;
+  min-height: 40px;
+  background-color: rgba(214, 213, 248, 1);
+  border: 1px solid rgba(0, 0, 0, 1);
+  box-sizing: border-box;
+  border-radius: 12px;
+}
+.Rectangle-4-outer {
+  z-index: 4;
+  position: relative;
+  display: flex;
+}
+.View-Report {
+  position: relative;
+  z-index: 19;
+
+  margin-left: 700px;
+  width: 80px;
+  min-width: 80px;
+  margin-top: -483px;
+  margin-bottom: 187px;
+  min-height: 16px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+}
+.View-Report-outer {
+  z-index: 19;
+  position: relative;
+  display: flex;
+}
+
+
+
+
+
+
+.image-5 {
+  position: relative;
+  z-index: 4;
+
+  margin-left: 500px;
+  width: 844px;
+  min-width: 844px;
+  height: 655px;
+  margin-top: -847px;
+  margin-bottom: 192px;
+  min-height: 655px;
+  content: url(assets/images/image_5.png);
+}
+.image-5-outer {
+  z-index: 4;
+  position: relative;
+  display: flex;
+}
+
+.Introducing-the-e-re {
+  position: relative;
+  z-index: 23;
+
+  margin-left: 176px;
+  width: 393px;
+  min-width: 393px;
+  margin-top: -589px;
+  margin-bottom: 497px;
+  min-height: 92px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.Introducing-the-e-re-outer {
+  z-index: 23;
+  position: relative;
+  display: flex;
+}
+
+
+
+
+.Rectangle-22 {
+  position: relative;
+  z-index: 28;
+
+  margin-left: 200px;
+  width: 185px;
+  min-width: 185px;
+  height: 54px;
+  margin-top: -281px;
+  margin-bottom: 127px;
+  min-height: 54px;
+  background-color: rgba(218, 218, 254, 1);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border: 1px solid rgba(5, 5, 5, 1);
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.Rectangle-22-outer {
+  z-index: 28;
+  position: relative;
+  display: flex;
+}
+.Send-Report {
+  position: relative;
+  z-index: 29;
+
+  margin-left: 225px;
+  width: 180px;
+  min-width: 180px;
+  margin-top: -265px;
+  margin-bottom: 138px;
+  min-height: 27px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+}
+.Send-Report-outer {
+  z-index: 29;
+  position: relative;
+  display: flex;
+}
+.Twitter-Circled {
+  position: relative;
+  z-index: 31;
+
+  margin-left: 235px;
+  width: 25px;
+  min-width: 25px;
+  height: 25px;
+  margin-top: -52px;
+  margin-bottom: 27px;
+  min-height: 25px;
+  content: url(assets/images/Twitter_Circled.png);
+}
+.Twitter-Circled-outer {
+  z-index: 31;
+  position: relative;
+  display: flex;
+}
+.Instagram-Circle {
+  position: relative;
+  z-index: 30;
+
+  margin-left: 132px;
+  width: 25px;
+  min-width: 25px;
+  height: 25px;
+  margin-top: -52px;
+  margin-bottom: 27px;
+  min-height: 25px;
+  content: url(assets/images/Instagram_Circle.png);
+}
+.Instagram-Circle-outer {
+  z-index: 30;
+  position: relative;
+  display: flex;
+}
+.Facebook {
+  position: relative;
+  z-index: 29;
+
+  margin-left: 28px;
+  width: 25px;
+  min-width: 25px;
+  height: 24px;
+  margin-top: -52px;
+  margin-bottom: 28px;
+  min-height: 24px;
+  content: url(assets/images/Facebook.png);
+}
+.Facebook-outer {
+  z-index: 29;
+  position: relative;
+  display: flex;
+}
+
+.profile-img {
+  position: relative;
+  z-index: 29;
+
+  margin-left: 1270px;
+  margin-top: -968px;
+  margin-bottom: 920px;
+
+
+  width: 40px;
+  min-width: 30px;
+  height: 40px;
+  min-height: 40px;
+  content: url(assets/images/prof.png);
+}
+.profile-img-outer {
+  z-index: 29;
+  position: relative;
+  display: flex;
+}
+.Tw {
+  position: relative;
+  z-index: 28;
+
+  transform: rotate(-3.110785277596729e-15deg);
+  margin-left: 260px;
+  width: 29px;
+  min-width: 29px;
+  margin-top: -52px;
+  margin-bottom: 29px;
+  min-height: 23px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.Tw-outer {
+  z-index: 28;
+  position: relative;
+  display: flex;
+}
+.In {
+  position: relative;
+  z-index: 27;
+
+  transform: rotate(6.97703381318498e-17deg);
+  margin-left: 160px;
+  width: 16px;
+  min-width: 16px;
+  margin-top: -52px;
+  margin-bottom: 29px;
+  min-height: 23px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.In-outer {
+  z-index: 27;
+  position: relative;
+  display: flex;
+}
+.Fb {
+  position: relative;
+  z-index: 26;
+
+  transform: rotate(1.2624774094156067e-15deg);
+  margin-left: 56px;
+  width: 20px;
+  min-width: 20px;
+  margin-top: -52px;
+  margin-bottom: 29px;
+  min-height: 23px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+}
+.Fb-outer {
+  z-index: 26;
+  position: relative;
+  display: flex;
+}
+.q2022-AR--All {
+  position: relative;
+  z-index: 24;
+
+  margin-left: 911px;
+  width: 550px;
+  min-width: 550px;
+  margin-top: -44px;
+  margin-bottom: 26px;
+  min-height: 18px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: rgba(0, 0, 0, 1);
+  font-style: normal;
+  font-family: Kulim Park;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+}
+.q2022-AR--All-outer {
+  z-index: 24;
+  position: relative;
+  display: flex;
+}
